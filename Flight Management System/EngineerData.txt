@@ -1,0 +1,3 @@
+Ahmet      Ak   30      Null        Seniour
+Can       Koc   35      Null        Seniour
+Yusuf     Ozcan   24     Null       Beginner

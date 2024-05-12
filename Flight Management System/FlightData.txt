@@ -1,0 +1,4 @@
+400       800  Istanbul         London     17.45     No     Yusuf        Kaya    201456     Defne      Akkaya
+600      1000  Istanbul          Tokyo     20.15     No     Ahmet       Alkan    325687    Zeynep       Topal
+250       450  Istanbul          Konya     15.00     No       Alp      Sultan    240165    Hatice       Aksel
+300       650    Ankara         Samsun     16.15     No     Pelin       Deniz    548975     Kemal          Ay

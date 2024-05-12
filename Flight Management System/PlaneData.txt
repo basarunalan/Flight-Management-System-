@@ -1,0 +1,8 @@
+201456    750  Istanbul  Istanbul  International   1200
+240165    400  Istanbul  Istanbul  Domestic   1200
+156478   2000  Istanbul  Istanbul  Domestic   1200
+325687   1000  Istanbul  Istanbul  International   1200
+548975    350    Ankara    Ankara  Domestic    900
+456987    600     Izmir     Izmir  Domestic    850
+520145    950  Istanbul  Istanbul  International   1300
+666999   1000  Istanbul  Istanbul  International   1500

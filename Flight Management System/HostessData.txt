@@ -1,0 +1,6 @@
+ezgi     yigit  1254       cabin   22    female  beginner    5
+Defne    Akkaya 1897    Cabinist   25    Female  Beginner    5
+Fatma    Yildiz 2056       Cabin   30    Female   Seniour    8
+Hatice    Aksel 2154    Cabinist   26    Female   Seniour    5
+Zeynep    Topal 3564    Cabinist   29    Female   Seniour    4
+Kemal        Ay 6548     Cabiner   24      Male  Beginner    3
